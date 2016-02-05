@@ -9,4 +9,3 @@
 ## Check your tools
 
 - If the challenge requires the use of tools, like grep, or some other utility or application, and the challenge depends on those translation steps working correctly, *make sure the tools are working properly*. Instead of changing your approach immediately, try the tool on another browser, another platform, etc.
-
